@@ -1,4 +1,5 @@
 # Video Transition Studio
+<img width="1126" height="773" alt="gambar" src="https://github.com/user-attachments/assets/b8a24e0b-c45c-4dff-8bb2-7816dadd81a8" />
 
 Batch video transition studio untuk Windows — transisi matte brush dan watercolor, serta transisi 2D: Wipe, Split, Dissolve, Checkerboard, Blinds, Clock, Smooth Fade, Cut, plus animasi Zoom (Ken Burns) yang bisa aktif bersamaan dengan transisi.
 
